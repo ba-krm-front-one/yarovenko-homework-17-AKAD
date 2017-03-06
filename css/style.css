@@ -144,6 +144,10 @@ main {
     font-size: 14px;
     font-weight: 400;
 }
+.fa-content-about__item > h4{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
 
 .fa-content-about__item > p {
     line-height: 30px;
@@ -173,6 +177,7 @@ main {
     flex-direction: column;
     flex-grow: 1;
 }
+
 
 h3, h4 {
     text-transform: uppercase;
